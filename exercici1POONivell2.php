@@ -2,7 +2,7 @@
 
 class Pokerdice {
 
-    private static $caresDau = ['Ace', 'K', 'Q', 'J', 7, 8];
+    private static $caresDau = ['As', 'K', 'Q', 'J', 7, 8];
     private static $totalTirades = 0;
     private $ultimaCara;
 
