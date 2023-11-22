@@ -10,7 +10,6 @@ class Shape {
         $this->alcada = $alcada;
     }
 
-    
     public function area() {
         return 0;
     }
